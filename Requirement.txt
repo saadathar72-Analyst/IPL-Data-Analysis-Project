@@ -1,0 +1,23 @@
+PROJECT: IPL Data Analysis Dashboard (2008–2024)
+
+SOFTWARE:
+- Microsoft Excel 2016 or later
+- Windows OS (for VBA support)
+
+EXCEL FEATURES:
+- Pivot Tables & Pivot Charts
+- Slicers / Timelines
+- XLOOKUP
+- Conditional Formatting
+
+VBA:
+- Macros Enabled (XLSM)
+- Navigation Buttons
+- Auto-Refresh Script
+
+DATA:
+- IPL Match Data (2008–2024)
+- Cleaned master dataset (teams, venues, results, seasons)
+
+OUTPUT:
+- Interactive Excel Dashboard (.xlsm)
