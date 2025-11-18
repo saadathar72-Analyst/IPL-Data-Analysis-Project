@@ -1,4 +1,4 @@
-🏏 IPL Data Analysis using Excel (2008–2024)
+# 🏏 IPL Data Analysis using Excel (2008–2024)
 📌 Overview
 This project analyzes Indian Premier League (IPL) match data from 2008 to 2024, providing a complete breakdown of team performances, season trends, and match outcomes using a fully interactive Excel Dashboard.
 It includes data cleaning, KPI creation, statistical summaries, and VBA-powered automation to enhance user interaction.
