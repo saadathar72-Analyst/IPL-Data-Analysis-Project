@@ -1,0 +1,12 @@
+
+Based on the features and analyses included in your dashboard, the following improvements can extend its effectiveness:
+
+Add player-level analytics such as top run-scorers or wicket-takers (if data is later added).
+
+Include advanced KPIs like average winning margin, batting first vs chasing trends, and venue win bias.
+
+Expand head-to-head analysis with additional filters for season, venue, or match type.
+
+Enhance automation by adding macros for auto-refresh, reset filters, and export summary options.
+
+Integrate optional connections to Power BI or Python for predictive modeling and deeper statistical insights.
